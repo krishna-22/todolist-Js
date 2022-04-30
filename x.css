@@ -1,0 +1,22 @@
+#title{
+    text-align: center;
+    color: blue;
+}
+#display{
+    margin: auto;
+    display: block;
+    padding-left: 10px ;
+}
+#count{
+    text-align: center;
+    color: red;
+}
+ul {
+    list-style-type: none;
+}
+input{
+    margin:10px;
+}
+.item{
+    padding-left: 40vw;
+}
